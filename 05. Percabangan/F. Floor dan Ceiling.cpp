@@ -19,7 +19,7 @@ int main() {
       c = x;
    }
 
-   cout << f << " " << c;
+   printf("%d %d\n", f,c);
 
   return 0;
 }
